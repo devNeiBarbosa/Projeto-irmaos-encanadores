@@ -1,11 +1,13 @@
-## Primeiro Projeto - Site Irmãos Encanadores
+<h1 align="center" font="500">Primeiro Projeto - Site Irmãos Encanadores</h1>
+<br>
+<h2 align="center">Esse foi um projeto que desenvolvi com os ensinamentos do <a href="https://rodolfomori.com.br/devclub">DevClub</a>!</h2>
 
-### Esse foi um projeto que desenvolvi com os ensinamentos do <a href="https://rodolfomori.com.br/devclub">DevClub</a>!
+<div align="center">
+<img width="400px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
+<img width="400px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/mobile.png?raw=true" />
+</div>
 
-<img src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
-<img src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/mobile.png?raw=true"/>
-
-### Tecnologias Utilizadas
+<h3>Tecnologias Utilizadas</h3>
 <div>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
