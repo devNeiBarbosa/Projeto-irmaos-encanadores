@@ -2,7 +2,8 @@
 
 ### Esse foi um projeto que desenvolvi com os ensinamentos do <a href="https://rodolfomori.com.br/devclub">DevClub</a>!
 
-
+<img src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
+<img src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/mobile.png?raw=true"/>
 
 ### Tecnologias Utilizadas
 <div>
