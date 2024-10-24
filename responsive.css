@@ -1,0 +1,129 @@
+@media screen and (max-width: 1200px) {
+
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+
+    video {
+        display: none;
+    }
+
+    .navbar-image {
+        display: none;
+    }
+
+    .navbar {
+        margin: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+        gap: 22px;
+        padding: 0;
+    }
+
+    nav p:hover {
+        font-size: 22px;
+        color: #c51111;
+        transition: 0.5s ease-in-out;
+    }
+
+    .navbar-text {
+        font-size: 20px;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        margin-top: 0px;
+        padding: 0;
+    }
+
+    .left img {
+        max-width: 90vw;
+        height: auto;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .left h1 {
+        text-align: center;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    .left ul {
+        display: none;
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .left-p {
+        display: none;
+        font-size: 18px;
+        margin-bottom: 30px;
+    }
+
+    .button-contact {
+        width: 240px;
+        height: 60px;
+        font-size: 18px;
+        margin-left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .button-contact:hover {
+        border-radius: 35px;
+        width: 270px;
+        height: 70px;
+        font-size: 22px;
+    }
+
+    .irmaos-bros {
+        max-width: 90vw;
+        height: auto;
+        margin-left: 50%;
+        transform: translateX(-50%);
+
+    }
+
+    .fale-conosco-form {
+        margin-left: -77px;
+    }
+
+    input {
+        width: 250px;
+    }
+
+    textarea {
+        width: 250px;
+    }
+
+    .button-fomr {
+        width: 200px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .button-fomr:hover {
+        border-radius: 35px;
+        width: 240px;
+        height: 70px;
+        font-size: 18px;
+        color: black;
+        transition: 0.5s ease-in-out;
+        box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.6);
+    }
+
+    .background-form {
+        width: 100vw;
+        height: 100vh;
+    }
+
+    .whatsapp-icon {
+        display: none;    
+    }
+}
