@@ -4,7 +4,7 @@
 
 <div align="center">
 <img width="450px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
-<img width="420px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/mobile.png?raw=true" />
+<img width="420px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/mobile.png?raw=true"/>
 </div>
 
 <h3>Tecnologias Utilizadas</h3>
