@@ -3,7 +3,7 @@
 <h2 align="center">Esse foi um projeto que desenvolvi com os ensinamentos do <a href="https://rodolfomori.com.br/devclub">DevClub</a>!</h2>
 
 <div align="center">
-<img width="400px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
+<img width="450px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
 <img width="400px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/mobile.png?raw=true" />
 </div>
 
