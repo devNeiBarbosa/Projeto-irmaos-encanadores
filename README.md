@@ -5,7 +5,7 @@
 
 <div>
     <img width="475px" src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/mobile.png?raw=true"/>
-    <img width="500px"  src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
+    <img width="520px"  src="https://github.com/devNeiBarbosa/Projeto-site-responsive/blob/main/img/desktop.png?raw=true"/>
 </div>
 
 <br>
