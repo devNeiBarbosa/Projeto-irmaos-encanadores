@@ -140,7 +140,6 @@
     }
 
     .navbar {
-        margin: 0;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -159,7 +158,7 @@
     }
 
     .navbar-text {
-        font-size: 20px;
+        font-size: 19px;
     }
 
     .container {
@@ -256,7 +255,7 @@
     .whatsapp-icon {
         width: 50px;
         height: 50px;
-        top: 91%; 
-        right: 5px; 
+        top: 45.5%; 
+        right: 15px; 
     }
 }
