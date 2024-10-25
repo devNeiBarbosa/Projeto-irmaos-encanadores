@@ -4,7 +4,7 @@
 <h2>Este foi um projeto que desenvolvi com os ensinamentos do <i><a href="https://rodolfomori.com.br/devclub">DevClub</a>!</i></h2>
 
 <ol>
-<h3>A crianção do projeto consistiu nas seguintes etapas:</h3>
+<h3>A criação do projeto consistiu nas seguintes etapas:</h3>
 <li>Utilizar o HTML para introduzir todas as informações necessárias dentro do nosso site;</li>
 <li>Entender como o CSS funciona e aplicar os styles necessários para trazer responsividade e vida a página;</li>
 <li>Compreender os ensinamentos básicos do JavaScript e aplica-los, deixando o site funcional.</li>
